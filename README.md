@@ -24,6 +24,7 @@
 
 - HTML5
 - CSS3
+- javascrip
 - Bootstrap 3.3.6
 - jQuery 2.2.3
 - rwd
